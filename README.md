@@ -10,7 +10,9 @@
 - 👋 Hi, I’m Ravinder!
 - 👀 I’m interested in Data Analytics, Machine learning, Deep learning and NLP.
 - 👩‍🍳 In my free time, I try to learn new things here and there.
-- 🛠 I’m looking to collaborate on any Project and also currently looking for any work opportunity
+- 🛠 Currently I'm looking for work opportunity in ML/AI industry (ready to collaborate on any ML/AI Project).
+
+
 
 ## Experienced In:
 
